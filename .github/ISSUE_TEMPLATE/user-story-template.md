@@ -1,6 +1,6 @@
 ---
 name: User Story Template
-about: Copy this template for author User Story documentation
+about: Copy this template for authoring User Stories
 title: ''
 labels: ''
 assignees: ''
